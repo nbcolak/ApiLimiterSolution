@@ -1,5 +1,5 @@
 ![C#](https://img.shields.io/badge/language-C%23-blue)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-8-blue)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-8-orange)
 ![Redis](https://img.shields.io/badge/Redis-Cache-red)
 ![Decorator Pattern](https://img.shields.io/badge/Pattern-Decorator-green)
 
