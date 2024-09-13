@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uFWhUQxaZTsL1X2gHYmx9XR+2WoCieX+PSIy41dMBSY=",
+  "Source": "ApiLimiter",
+  "BasePath": "_content/ApiLimiter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

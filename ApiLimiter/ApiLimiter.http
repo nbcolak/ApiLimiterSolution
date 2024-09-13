@@ -1,0 +1,6 @@
+@ApiLimiter_HostAddress = http://localhost:5162
+
+GET {{ApiLimiter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
